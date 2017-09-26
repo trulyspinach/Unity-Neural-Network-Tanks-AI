@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d1ac810-f836-4517-880a-444a35e72b57" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WorldController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/WorldController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="48" column="27" lean-forward="false" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+              <folding>
+                <marker date="1506412289000" expanded="false" signature="6:139" ph="..." />
+                <marker date="1506412289000" expanded="true" signature="178:2697" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="228:2694" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="790:1328" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="915:1284" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="1353:1893" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="1442:1500" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="1761:1855" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="1928:2111" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="1997:2107" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="2136:2163" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="2189:2360" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="2328:2356" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="2393:2547" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="2501:2543" ph="{...}" />
+                <marker date="1506412289000" expanded="true" signature="2588:2691" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UIController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/UIController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <marker date="1506421436986" expanded="false" signature="6:40" ph="..." />
+                <marker date="1506421436986" expanded="true" signature="79:476" ph="{...}" />
+                <marker date="1506421436986" expanded="true" signature="124:474" ph="{...}" />
+                <marker date="1506421436986" expanded="true" signature="259:402" ph="{...}" />
+                <marker date="1506421436986" expanded="true" signature="435:471" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NeuralNetwork.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/NeuralNetwork.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="56" lean-forward="false" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeneticOptimizeableNerualNetwork.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimizeableNerualNetwork.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <marker date="1506411547000" expanded="true" signature="56:942" ph="{...}" />
+                <marker date="1506411547000" expanded="true" signature="143:940" ph="{...}" />
+                <marker date="1506411547000" expanded="true" signature="229:295" ph="{...}" />
+                <marker date="1506411547000" expanded="true" signature="465:937" ph="{...}" />
+                <marker date="1506411547000" expanded="true" signature="606:716" ph="{...}" />
+                <marker date="1506411547000" expanded="true" signature="648:711" ph="{...}" />
+                <marker date="1506411547000" expanded="true" signature="767:887" ph="{...}" />
+                <marker date="1506411547000" expanded="true" signature="813:882" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeneticOptimisation.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimisation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="28" column="55" lean-forward="false" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+              <folding>
+                <marker date="1506411993000" expanded="false" signature="6:96" ph="..." />
+                <marker date="1506411993000" expanded="true" signature="119:4879" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="154:221" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="260:4691" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="635:880" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="936:1805" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="975:1795" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="1378:1561" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="1861:2630" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="2274:2596" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="2709:2948" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="2796:2938" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="3029:3185" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="3117:3175" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="3237:3385" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="3440:3673" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="3757:4181" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="3944:4085" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="4260:4377" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="4467:4685" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="4559:4635" ph="{...}" />
+                <marker date="1506411993000" expanded="true" signature="4735:4877" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActivationFunction.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/ActivationFunction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1506405283000" expanded="true" signature="36:504" ph="{...}" />
+                <marker date="1506405283000" expanded="true" signature="77:109" ph="{...}" />
+                <marker date="1506405283000" expanded="true" signature="166:243" ph="{...}" />
+                <marker date="1506405283000" expanded="true" signature="202:240" ph="{...}" />
+                <marker date="1506405283000" expanded="true" signature="298:381" ph="{...}" />
+                <marker date="1506405283000" expanded="true" signature="334:378" ph="{...}" />
+                <marker date="1506405283000" expanded="true" signature="433:502" ph="{...}" />
+                <marker date="1506405283000" expanded="true" signature="469:499" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ISMath.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SPINACH/ISMath.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+              <folding>
+                <marker date="1506410240000" expanded="false" signature="6:62" ph="..." />
+                <marker date="1506410240000" expanded="true" signature="84:4054" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="192:433" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="200:430" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="531:612" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="701:763" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="849:975" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="1040:1079" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="1141:1265" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="1329:1459" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="1519:1566" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="1602:1647" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="1689:1731" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="1785:1981" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="2035:2086" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="2149:2304" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="2383:2503" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="2577:2611" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="2656:2717" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="2770:2821" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="2882:2949" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="3019:3172" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="3214:3248" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="3335:3500" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="3536:4052" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="3714:3873" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="3916:4049" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4111:4138" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4189:12930" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4319:4601" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4352:4598" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4373:4465" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4465:4594" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4635:4721" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4754:4788" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4830:4875" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="4927:4983" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="5020:5327" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="5372:6493" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="5762:5789" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="5789:5824" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="6050:6133" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="6199:6292" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="6358:6449" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="6547:9415" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="7249:7537" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="7293:7361" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="7450:7523" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="7554:7823" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="7736:7809" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="8404:8545" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="8658:8814" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="8927:9083" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="9196:9349" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="9492:11887" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="11929:11973" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="12021:12128" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="12185:12333" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="12399:12568" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="12642:12837" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="12877:12928" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="12969:14220" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13006:13067" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13110:13212" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13249:13328" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13263:13325" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13462:13502" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13532:13563" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13615:13658" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13711:13735" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13788:13812" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13865:13889" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="13942:13966" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="14020:14059" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="14113:14150" ph="{...}" />
+                <marker date="1506410240000" expanded="true" signature="14187:14218" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TankDriver.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/TankDriver.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+              <folding>
+                <marker date="1506405142000" expanded="false" signature="6:51" ph="..." />
+                <marker date="1506405142000" expanded="true" signature="90:1802" ph="{...}" />
+                <marker date="1506405142000" expanded="true" signature="135:1799" ph="{...}" />
+                <marker date="1506405142000" expanded="true" signature="269:549" ph="{...}" />
+                <marker date="1506405142000" expanded="true" signature="474:545" ph="{...}" />
+                <marker date="1506405142000" expanded="true" signature="586:653" ph="{...}" />
+                <marker date="1506405142000" expanded="true" signature="721:1665" ph="{...}" />
+                <marker date="1506405142000" expanded="true" signature="851:950" ph="/* assuming that closest one is always the one it trying to attack. ... */" />
+                <marker date="1506405142000" expanded="true" signature="1705:1796" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tank.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/GamePlay/Tank.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding>
+                <marker date="1506403942000" expanded="false" signature="6:97" ph="..." />
+                <marker date="1506403942000" expanded="true" signature="136:1829" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="166:1825" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="483:542" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="569:658" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="693:758" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="797:865" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="896:916" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="999:1228" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="1271:1350" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="1401:1721" ph="{...}" />
+                <marker date="1506403942000" expanded="true" signature="1753:1822" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/GamePlay/Tank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimisation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/WorldController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/NeuralNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/TankDriver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SPINACH/ISMath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimizeableNerualNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/UIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/ActivationFunction.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/AI/MLN.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/AI/NeuralNetwork.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/AI/GeneticOptimisation.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/AI/Warpper.cs" />
+        <option value="$PROJECT_DIR$/Assets/SPINACH/AI/GeneticOptimizeableNerualNetwork.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/GamePlay/Tank.cs" />
+        <option value="$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/ActivationFunction.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/TankDriver.cs" />
+        <option value="$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimizeableNerualNetwork.cs" />
+        <option value="$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/NeuralNetwork.cs" />
+        <option value="$PROJECT_DIR$/../Multi-Thread AI Study/Assets/ArtificialLife/Scripts/AIBase/GeneticOptimisation.cs" />
+        <option value="$PROJECT_DIR$/Assets/SPINACH/ISMath.cs" />
+        <option value="$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimisation.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/WorldController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/UIController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="195" />
+    <option name="y" value="135" />
+    <option name="width" value="2061" />
+    <option name="height" value="1114" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ArtificialTankDriver by QI (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Unity Debug.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1ac810-f836-4517-880a-444a35e72b57" name="Default" comment="" />
+      <created>1506402229030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506402229030</updated>
+      <workItem from="1506402232204" duration="8313000" />
+      <workItem from="1506421372958" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8377000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="195" y="135" width="2061" height="1114" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498787" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/WorldController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506412289000" expanded="false" signature="6:139" ph="..." />
+            <marker date="1506412289000" expanded="true" signature="178:2697" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="228:2694" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="790:1328" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="915:1284" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1353:1893" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1442:1500" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1761:1855" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1928:2111" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1997:2107" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2136:2163" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2189:2360" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2328:2356" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2393:2547" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2501:2543" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2588:2691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/NeuralNetwork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="56" lean-forward="false" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimizeableNerualNetwork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1506411547000" expanded="true" signature="56:942" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="143:940" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="229:295" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="465:937" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="606:716" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="648:711" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="767:887" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="813:882" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimisation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="55" lean-forward="false" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <marker date="1506411993000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1506411993000" expanded="true" signature="119:4879" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="154:221" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="260:4691" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="635:880" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="936:1805" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="975:1795" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="1378:1561" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="1861:2630" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="2274:2596" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="2709:2948" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="2796:2938" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3029:3185" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3117:3175" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3237:3385" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3440:3673" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3757:4181" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3944:4085" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="4260:4377" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="4467:4685" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="4559:4635" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="4735:4877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/ActivationFunction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506405283000" expanded="true" signature="36:504" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="77:109" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="166:243" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="202:240" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="298:381" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="334:378" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="433:502" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="469:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/ISMath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <marker date="1506410240000" expanded="false" signature="6:62" ph="..." />
+            <marker date="1506410240000" expanded="true" signature="84:4054" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="192:433" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="200:430" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="531:612" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="701:763" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="849:975" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1040:1079" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1141:1265" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1329:1459" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1519:1566" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1602:1647" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1689:1731" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1785:1981" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2035:2086" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2149:2304" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2383:2503" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2577:2611" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2656:2717" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2770:2821" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2882:2949" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3019:3172" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3214:3248" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3335:3500" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3536:4052" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3714:3873" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3916:4049" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4111:4138" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4189:12930" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4319:4601" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4352:4598" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4373:4465" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4465:4594" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4635:4721" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4754:4788" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4830:4875" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4927:4983" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="5020:5327" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="5372:6493" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="5762:5789" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="5789:5824" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="6050:6133" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="6199:6292" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="6358:6449" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="6547:9415" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7249:7537" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7293:7361" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7450:7523" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7554:7823" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7736:7809" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="8404:8545" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="8658:8814" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="8927:9083" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="9196:9349" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="9492:11887" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="11929:11973" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12021:12128" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12185:12333" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12399:12568" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12642:12837" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12877:12928" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12969:14220" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13006:13067" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13110:13212" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13249:13328" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13263:13325" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13462:13502" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13532:13563" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13615:13658" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13711:13735" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13788:13812" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13865:13889" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13942:13966" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="14020:14059" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="14113:14150" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="14187:14218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/TankDriver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <marker date="1506405142000" expanded="false" signature="6:51" ph="..." />
+            <marker date="1506405142000" expanded="true" signature="90:1802" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="135:1799" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="269:549" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="474:545" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="586:653" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="721:1665" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="851:950" ph="/* assuming that closest one is always the one it trying to attack. ... */" />
+            <marker date="1506405142000" expanded="true" signature="1705:1796" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/GamePlay/Tank.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <marker date="1506403942000" expanded="false" signature="6:97" ph="..." />
+            <marker date="1506403942000" expanded="true" signature="136:1829" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="166:1825" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="483:542" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="569:658" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="693:758" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="797:865" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="896:916" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="999:1228" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="1271:1350" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="1401:1721" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="1753:1822" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/AI/NeuralNetwork.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/AI/GeneticOptimisation.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/AI/Warpper.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/GeneticOptimizeableNerualNetwork.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" />
+    <entry file="file://$PROJECT_DIR$/../Multi-Thread AI Study/Assets/ArtificialLife/Scripts/AIBase/GeneticOptimisation.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/ISMath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="55" lean-forward="false" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <marker date="1506410240000" expanded="false" signature="6:62" ph="..." />
+            <marker date="1506410240000" expanded="true" signature="84:4054" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="192:433" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="200:430" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="531:612" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="701:763" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="849:975" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1040:1079" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1141:1265" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1329:1459" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1519:1566" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1602:1647" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1689:1731" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="1785:1981" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2035:2086" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2149:2304" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2383:2503" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2577:2611" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2656:2717" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2770:2821" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="2882:2949" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3019:3172" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3214:3248" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3335:3500" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3536:4052" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3714:3873" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="3916:4049" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4111:4138" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4189:12930" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4319:4601" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4352:4598" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4373:4465" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4465:4594" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4635:4721" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4754:4788" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4830:4875" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="4927:4983" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="5020:5327" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="5372:6493" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="5762:5789" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="5789:5824" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="6050:6133" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="6199:6292" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="6358:6449" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="6547:9415" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7249:7537" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7293:7361" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7450:7523" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7554:7823" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="7736:7809" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="8404:8545" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="8658:8814" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="8927:9083" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="9196:9349" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="9492:11887" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="11929:11973" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12021:12128" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12185:12333" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12399:12568" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12642:12837" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12877:12928" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="12969:14220" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13006:13067" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13110:13212" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13249:13328" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13263:13325" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13462:13502" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13532:13563" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13615:13658" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13711:13735" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13788:13812" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13865:13889" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="13942:13966" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="14020:14059" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="14113:14150" ph="{...}" />
+            <marker date="1506410240000" expanded="true" signature="14187:14218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/TankDriver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <marker date="1506405142000" expanded="false" signature="6:51" ph="..." />
+            <marker date="1506405142000" expanded="true" signature="90:1802" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="135:1799" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="269:549" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="474:545" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="586:653" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="721:1665" ph="{...}" />
+            <marker date="1506405142000" expanded="true" signature="851:950" ph="/* assuming that closest one is always the one it trying to attack. ... */" />
+            <marker date="1506405142000" expanded="true" signature="1705:1796" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/GamePlay/Tank.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <marker date="1506403942000" expanded="false" signature="6:97" ph="..." />
+            <marker date="1506403942000" expanded="true" signature="136:1829" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="166:1825" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="483:542" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="569:658" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="693:758" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="797:865" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="896:916" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="999:1228" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="1271:1350" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="1401:1721" ph="{...}" />
+            <marker date="1506403942000" expanded="true" signature="1753:1822" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/ActivationFunction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506405283000" expanded="true" signature="36:504" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="77:109" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="166:243" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="202:240" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="298:381" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="334:378" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="433:502" ph="{...}" />
+            <marker date="1506405283000" expanded="true" signature="469:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/NeuralNetwork/NeuralNetwork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="56" lean-forward="false" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimizeableNerualNetwork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1506411547000" expanded="true" signature="56:942" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="143:940" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="229:295" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="465:937" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="606:716" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="648:711" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="767:887" ph="{...}" />
+            <marker date="1506411547000" expanded="true" signature="813:882" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SPINACH/AI/Genetic/GeneticOptimisation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="55" lean-forward="false" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+          <folding>
+            <marker date="1506411993000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1506411993000" expanded="true" signature="119:4879" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="154:221" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="260:4691" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="635:880" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="936:1805" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="975:1795" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="1378:1561" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="1861:2630" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="2274:2596" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="2709:2948" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="2796:2938" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3029:3185" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3117:3175" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3237:3385" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3440:3673" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3757:4181" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="3944:4085" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="4260:4377" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="4467:4685" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="4559:4635" ph="{...}" />
+            <marker date="1506411993000" expanded="true" signature="4735:4877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Multi-Thread AI Study/Assets/Scripts/BodyPart.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/WorldController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="48" column="27" lean-forward="false" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding>
+            <marker date="1506412289000" expanded="false" signature="6:139" ph="..." />
+            <marker date="1506412289000" expanded="true" signature="178:2697" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="228:2694" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="790:1328" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="915:1284" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1353:1893" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1442:1500" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1761:1855" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1928:2111" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="1997:2107" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2136:2163" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2189:2360" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2328:2356" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2393:2547" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2501:2543" ph="{...}" />
+            <marker date="1506412289000" expanded="true" signature="2588:2691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ArtificialTankDriver by QI/Scripts/UIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1506421436986" expanded="false" signature="6:40" ph="..." />
+            <marker date="1506421436986" expanded="true" signature="79:476" ph="{...}" />
+            <marker date="1506421436986" expanded="true" signature="124:474" ph="{...}" />
+            <marker date="1506421436986" expanded="true" signature="259:402" ph="{...}" />
+            <marker date="1506421436986" expanded="true" signature="435:471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
