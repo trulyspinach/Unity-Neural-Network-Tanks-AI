@@ -26,9 +26,11 @@ namespace SPINACH.AI {
             var func = new SigmoidFunction();
             for (var i = 0; i < layersLength - 1; i++) {
                 weights[i] = new double[this.layers[i]][];
-                activateFunctions[i] = new IActivationFunction[this.layers[i]];
+                activateFunctions[i] = new IActivationFunction[this.layers[i + 1]];
                 for (var j = 0; j < this.layers[i]; j++) {
                     weights[i][j] = new double[this.layers[i + 1]];
+                }
+                for (var j = 0; j < this.layers[i + 1]; j++) {
                     activateFunctions[i][j] = func;
                 }
                 bias[i] = new double[this.layers[i + 1]];
